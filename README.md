@@ -34,11 +34,12 @@ In the program Jobtrend, we have a search function that looks for skills in JobA
 be able to give employees these skills.
 
 Matching skills taught in courses and skills searched for in job ads is not trivial though.
-As these skills might be describe in a number of different ways.
+As these skills might be described in a number of different ways.
 
 As a part of my investigation on how we should implement this semantic similarity search - a
 number of techniques have been tried out. Where I have saved some of the files from this work
 here in this folder.
+
 In case you wonder what a Wine.ipynb notebook is doing among these files, then, well, :) 
 I needed to include a file with a classic classification problem 
 in this folder in connection with a workshop/tutorial. And I have talked about the Titanic
