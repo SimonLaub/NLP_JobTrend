@@ -21,7 +21,7 @@ Simon Laub.
 Email: sila
 
 About JobTrend
-(In Danish)
+(In Danish):
 
 Med database og analyseværktøj tilbyder Jobtrend arbejdsmarkedsanalyser. 
 Disse analyser skal afdække uddannelsers relevans i forhold til det 
