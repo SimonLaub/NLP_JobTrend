@@ -1,6 +1,7 @@
 Files used in connection with a Semantic Similarity Search project.
 
 Details:
+
 This folder contains a number of NLP files used in connection with the JobTrend Project (at Eaaa).
 
 In the program Jobtrend, we have a search function that looks for skills in JobAds
