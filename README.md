@@ -3,11 +3,11 @@ Files used in connection with a Semantic Similarity Search project.
 
 IntroSpaCy.ipynb
 
-Short intro to the SpaCy library.
+(Short intro to the SpaCy library).
 
 WordCloud.ipynb
 
-How you can make your own WordClouds.
+(How you can make your own WordClouds).
 
 Newsgroup Categories.ipynb
 
