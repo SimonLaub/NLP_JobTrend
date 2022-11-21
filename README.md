@@ -1,33 +1,25 @@
 Files used in connection with a Semantic Similarity Search project.
 
 
-- IntroSpaCy.ipynb
-- 
+- IntroSpaCy.ipynb 
 (Short intro to the SpaCy library).
 
-- WordCloud.ipynb
-- 
+- WordCloud.ipynb 
 (How you can make your own WordClouds).
 
-- Newsgroup Categories.ipynb
-- 
+- Newsgroup Categories.ipynb 
 (Classification of (your) text into 4 newsgroups).
 
-- BasicTextAnalytics.ipynb
-- 
+- BasicTextAnalytics.ipynb 
 (Misc. Techniques for basic text analytics).
 
-- SyntacticSimiliarity.ipynb
-- 
+- SyntacticSimiliarity.ipynb 
 (Code for syntactic similarity).
-
 Uses the abcnews-date-text.csv dataset
 (available elsewhere on Github/Kaggle).
 
-- Wine_Classification.ipynb
-- 
-(A classic classification problem).
-
+- Wine_Classification.ipynb 
+(A classic classification problem). 
 Included here as part of a tutorial on ML techniques.
 
 
