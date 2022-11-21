@@ -22,6 +22,7 @@ Email: sila
 
 About JobTrend
 (In Danish)
+
 Med database og analyseværktøj tilbyder Jobtrend arbejdsmarkedsanalyser. 
 Disse analyser skal afdække uddannelsers relevans i forhold til det 
 danske arbejdsmarked og på den måde understøtte udviklingen af uddannelser.
