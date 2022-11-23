@@ -30,7 +30,7 @@ Uses the abcnews-date-text.csv dataset
 (Transformers and semantic similarity, english).
 
 - SentenceTransformerColabExampleDK.ipynb
-(Transformers and semantic similarity, english).
+(Transformers and semantic similarity, danish).
 
 - Wine_Classification.ipynb 
 (A classic classification problem). 
