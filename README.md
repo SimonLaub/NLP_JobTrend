@@ -11,7 +11,7 @@ Files used in connection with a Semantic Similarity Search project.
 (Classification of (your) text into 4 newsgroups).
 
 - NLPJobClassifier.ipynb
-(Classification of jobs into groups IT or non-IT).
+(Classification of jobs into groups "IT" or "non-IT").
 Uses the datajobsposts.csv dataset
 (available elsewhere on Github/Kaggle).
 
