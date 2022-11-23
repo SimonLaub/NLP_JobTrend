@@ -59,7 +59,7 @@ I needed to include a file with a classic classification problem
 in this folder in connection with a workshop/tutorial. And I have talked about the Titanic
 problem too many times by now, and needed a similar, but different, case to talk about here.
 
-Code that uses transformer models will be added continously to the folder.
+More transformer based code will be added as the project JobTrend progresses.
 
 Simon Laub.
 Email: sila
