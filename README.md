@@ -10,6 +10,11 @@ Files used in connection with a Semantic Similarity Search project.
 - Newsgroup Categories.ipynb 
 (Classification of (your) text into 4 newsgroups).
 
+- NLPJobClassifier.ipynb
+(Classification of jobs into groups IT or non-IT).
+Uses the datajobsposts.csv dataset
+(available elsewhere on Github/Kaggle).
+
 - BasicTextAnalytics.ipynb 
 (Misc. Techniques for basic text analytics).
 
@@ -17,6 +22,15 @@ Files used in connection with a Semantic Similarity Search project.
 (Code for syntactic similarity).
 Uses the abcnews-date-text.csv dataset
 (available elsewhere on Github/Kaggle).
+
+- SemanticRelationshipWordEmbedding.ipymb
+(WordEmbeddings. Classic queen, king, man, woman example)
+
+- SentenceTransformerColabExampleEN.ipynb
+(Transformers and semantic similarity, english).
+
+- SentenceTransformerColabExampleDK.ipynb
+(Transformers and semantic similarity, english).
 
 - Wine_Classification.ipynb 
 (A classic classification problem). 
