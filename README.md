@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="PosterSprogTeknologiVers1.JPG"  alt="Poster SprogTeknologi Konference" title="Poster SprogTeknologi Konference">
+</p>
+
 Files used in connection with a Semantic Similarity Search project.
 
 
