@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="PosterSprogTeknologiVers1.JPG"  width=355" heigh="501" alt="Poster SprogTeknologisk Konference, KU 2022. " title="Poster SprogTeknologisk Konference, KU 2022.">
+  <img src="PosterSprogTeknologiVers1.JPG"  width=355" height="501" alt="Poster SprogTeknologisk Konference, KU 2022. " title="Poster SprogTeknologisk Konference, KU 2022.">
 </p>
 
 Files used in connection with a Semantic Similarity Search project.
