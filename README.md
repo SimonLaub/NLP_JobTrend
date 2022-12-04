@@ -40,6 +40,9 @@ Uses the abcnews-date-text.csv dataset
 (A classic classification problem). 
 Included here as part of a tutorial on ML techniques.
 
+- MyFirstQuad.ipynb 
+(A question answer transformer). 
+Included here as part of a tutorial on ML techniques.
 
 
 
@@ -62,6 +65,7 @@ In case you wonder what a Wine.ipynb notebook is doing among these files, then, 
 I needed to include a file with a classic classification problem 
 in this folder in connection with a workshop/tutorial. And I have talked about the Titanic
 problem too many times by now, and needed a similar, but different, case to talk about here.
+The question answer transformer MyFirstQuad.ipynb is included as a simple example of this technique.
 
 More transformer based code will be added as the project JobTrend progresses.
 
