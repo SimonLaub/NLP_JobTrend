@@ -12,7 +12,7 @@ Can be found in this folder.<br>
 -  <a href="IntroSpaCy.ipynb">IntroSpaCy.ipynb</a><br>
 (Short intro to the SpaCy library).<br>
 <br>
-- <a href=" WordCloud.ipynb">WordCloud.ipynb</a><br>
+- <a href="WordCloud.ipynb">WordCloud.ipynb</a><br>
 (How you can make your own WordClouds).<br>
 <br>
 - <a href="Newsgroup Categories.ipynb">Newsgroup Categories.ipynb</a><br>
