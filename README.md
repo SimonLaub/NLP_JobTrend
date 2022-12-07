@@ -52,7 +52,7 @@ Included here as part of a tutorial on ML techniques.<br>
 Details:<br>
 <br>
 This folder contains a number of NLP files used in connection with the JobTrend Project (at Eaaa).<br>
-<i>In the program Jobtrend, we have a search function that looks for skills in JobAds
+Core idea we are exploring here: <i>In the program Jobtrend, we have a search function that looks for skills in JobAds
 (Skills that a company hope an employee have). Available courses at Eaaa should then
 be able to give employees these skills</i>.<br>
 <br>
