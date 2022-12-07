@@ -7,7 +7,7 @@ Code for the project prototype can be found <a href="Prototype/README.md">here</
 
 <h3>Project Tutorials:</h3>
 Can be found in this folder.<br>
-(See the followting list of tutorial files for the <i>Semantic Similarity Search project</i>).<br>
+(See the followting list of tutorial files for this <i>Semantic Similarity Search project</i>).<br>
 <br>
 -  <a href="IntroSpaCy.ipynb">IntroSpaCy.ipynb</a><br>
 (Short intro to the SpaCy library).<br>
