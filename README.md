@@ -62,10 +62,10 @@ As these skills might be described in a number of different ways.<br>
 As a part of my <i>investigation</i> on how we should implement this semantic similarity search - a
 number of techniques have been tried out. Where I have saved some of these <i>tutorial</i> files from this work
 here in this folder.<br>
-In case you wonder what a Wine.ipynb notebook is doing among these files, then, well, :) 
+In case you wonder what a Wine.ipynb notebook is doing among these files, then, well, :) <br>
 I needed to include a file with a classic classification problem 
 in this folder in connection with a workshop/tutorial. And I have talked about the Titanic
-problem too many times by now, and needed a similar, but different, case to talk about here.
+problem too many times by now, and needed a similar, but different, case to talk about here.<br>
 The question answer transformer MyFirstQuad.ipynb is included as a simple example of this technique.<br>
 More transformer (tutorial) based code will be added as the project JobTrend progresses.<br>
 <br>
