@@ -52,36 +52,29 @@ Included here as part of a tutorial on ML techniques.<br>
 Details:<br>
 <br>
 This folder contains a number of NLP files used in connection with the JobTrend Project (at Eaaa).<br>
-<br>
-In the program Jobtrend, we have a search function that looks for skills in JobAds
+<i>In the program Jobtrend, we have a search function that looks for skills in JobAds
 (Skills that a company hope an employee have). Available courses at Eaaa should then
-be able to give employees these skills.<br>
-<br>
+be able to give employees these skills</i>.<br>
 Matching skills taught in courses and skills searched for in job ads is not trivial though.
 As these skills might be described in a number of different ways.<br>
-<br>
 As a part of my investigation on how we should implement this semantic similarity search - a
-number of techniques have been tried out. Where I have saved some of the files from this work
+number of techniques have been tried out. Where I have saved some of these <i>tutorial</i> files from this work
 here in this folder.<br>
-<br>
 In case you wonder what a Wine.ipynb notebook is doing among these files, then, well, :) 
 I needed to include a file with a classic classification problem 
 in this folder in connection with a workshop/tutorial. And I have talked about the Titanic
 problem too many times by now, and needed a similar, but different, case to talk about here.
 The question answer transformer MyFirstQuad.ipynb is included as a simple example of this technique.<br>
-<br>
-More transformer based code will be added as the project JobTrend progresses.<br>
+More transformer (tutorial) based code will be added as the project JobTrend progresses.<br>
 <br>
 Simon Laub.<br>
 Email: sila<br>
 <br>
 About JobTrend<br>
 (In Danish):<br>
-<br>
 Med database og analyseværktøj tilbyder Jobtrend arbejdsmarkedsanalyser. <br>
 Disse analyser skal afdække uddannelsers relevans i forhold til det 
 danske arbejdsmarked og på den måde understøtte udviklingen af uddannelser.<br>
-<br>
 På sigt kan der omvendt opstå øget ledighed på det danske arbejdsmarked, 
 og i den situation er det vigtigt at bibringe dimittender og ledige kompetencer, 
 som gør den attraktive på det danske arbejdsmarked. I samfundet er der samlet set et vedvarende
