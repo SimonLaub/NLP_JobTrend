@@ -7,15 +7,15 @@ Code for the project prototype can be found <a href="Prototype/README.md">here</
 
 <h3>Project Tutorials:</h3>
 Can be found in this folder.<br>
-See the followting list of tutorial files for the Semantic Similarity Search project.
-
-
+<br>
+See the followting list of tutorial files for the Semantic Similarity Search project.<br>
+<br>
 -  <a href="IntroSpaCy.ipynb">IntroSpaCy.ipynb</a><br>
 (Short intro to the SpaCy library).<br>
 <br>
-- WordCloud.ipynb 
-(How you can make your own WordClouds).
-
+- <a href=" WordCloud.ipynb">WordCloud.ipynb</a><br>
+(How you can make your own WordClouds).<br>
+<br>
 - Newsgroup Categories.ipynb 
 (Classification of (your) text into 4 newsgroups).
 
