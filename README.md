@@ -3,7 +3,7 @@
 </p>
 
 <h3>Prototype:</h3>
-Code for the project prototype can be found <a href=""Prototype">here</a><br>
+Code for the project prototype can be found <a href=""Prototype">here</a>.<br>
 
 <h3>Project Tutorials:</h3>
 Can be found in this folder.<br>
