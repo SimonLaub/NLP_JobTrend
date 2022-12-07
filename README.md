@@ -10,9 +10,9 @@ Can be found in this folder.<br>
 See the followting list of tutorial files for the Semantic Similarity Search project.
 
 
-- IntroSpaCy.ipynb 
-(Short intro to the SpaCy library).
-
+-  <a href="IntroSpaCy.ipynb">IntroSpaCy.ipynb</a><br>
+(Short intro to the SpaCy library).<br>
+<br>
 - WordCloud.ipynb 
 (How you can make your own WordClouds).
 
