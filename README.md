@@ -55,9 +55,11 @@ This folder contains a number of NLP files used in connection with the JobTrend 
 <i>In the program Jobtrend, we have a search function that looks for skills in JobAds
 (Skills that a company hope an employee have). Available courses at Eaaa should then
 be able to give employees these skills</i>.<br>
+<br>
 Matching skills taught in courses and skills searched for in job ads is not trivial though.
 As these skills might be described in a number of different ways.<br>
-As a part of my investigation on how we should implement this semantic similarity search - a
+<br>
+As a part of my <i>investigation</i> on how we should implement this semantic similarity search - a
 number of techniques have been tried out. Where I have saved some of these <i>tutorial</i> files from this work
 here in this folder.<br>
 In case you wonder what a Wine.ipynb notebook is doing among these files, then, well, :) 
