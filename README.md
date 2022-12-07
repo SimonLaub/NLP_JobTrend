@@ -2,10 +2,10 @@
   <img src="PosterSprogTeknologiVers1.jpg" alt="Poster SprogTeknologisk Konference, KU 2022. " title="Poster SprogTeknologisk Konference, KU 2022.">
 </p>
 
-<h3>Prototype</h3>
+<h3>Prototype:</h3>
 Code for the project prototype can be found <a href=""Prototype">here</a><br>
 
-<h3>Project Tutorials</h3>
+<h3>Project Tutorials:</h3>
 Can be found in this folder.<br>
 See the followting list of tutorial files for the Semantic Similarity Search project.
 
