@@ -34,7 +34,7 @@ Uses the abcnews-date-text.csv dataset<br>
 - <a href="SemanticRelationshipWordEmbedding.ipynb">SemanticRelationshipWordEmbedding.ipynb</a><br>
 (WordEmbeddings. Classic queen, king, man, woman example)<br>
 <br>
-- <a href="SentenceTransformerColabExampleEN.ipynb">SentenceTransformerColabExampleEN.ipynb</a><br>
+- <a href="SentenceTransformerColabExampleEn.ipynb">SentenceTransformerColabExampleEN.ipynb</a><br>
 (Transformers and semantic similarity, english).<br>
 <br>
 - <a href="SentenceTransformerColabExampleDK.ipynb">SentenceTransformerColabExampleDK.ipynb</a><br>
