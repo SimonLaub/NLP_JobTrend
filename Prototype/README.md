@@ -3,6 +3,8 @@
 </p>
 
 <h3>Prototype:</h3>
-Code for the project prototype can be found here:<br>
+Project prototypes:<br>
 <br>
-...will be added in the coming months ...
+Prototype 1: <a href="JobTrendPrototype1.ipynb">JobTrend prototype 1</a> (December 12th, 2022).<br
+<br>
+
