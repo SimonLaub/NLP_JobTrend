@@ -5,6 +5,7 @@
 <h3>Prototype:</h3>
 Project prototypes:<br>
 <br>
-Prototype 1: <a href="JobTrendPrototype1.ipynb">JobTrend prototype 1</a> (December 12th, 2022).<br
+Prototype 1 (December 12th, 2022): <br>
+<a href="JobTrendPrototype1.ipynb">JobTrend prototype Vers 0.1</a><br>
 <br>
 
