@@ -11,4 +11,7 @@ Prototype 1 (December 12th, 2022): <br>
 Prototype 2 (December 22th, 2022): <br>
 <a href="JobTrendPrototype2.ipynb">JobTrend prototype (Vers 0.2)</a><br>
 <br>
-
+Prototype 3 (December 29th, 2022): <br>
+<a href="JobTrendPrototype3.ipynb">JobTrend prototype (Vers 0.3)</a><br>
+(Reads excel file <a href="JobTrendAds.csv">JobTrendAds.csv</a>)<br>
+<br>
