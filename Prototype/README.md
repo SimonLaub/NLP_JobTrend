@@ -15,3 +15,7 @@ Prototype 3 (December 29th, 2022): <br>
 <a href="JobTrendPrototype3.ipynb">JobTrend prototype (Vers 0.3)</a><br>
 (Reads excel file <a href="JobTrendAds.csv">JobTrendAds.csv</a>)<br>
 <br>
+TF_IDF Search (December 1st, 2022): <br>
+<a href="PersonalCompetencies_TFIDF_Search.ipynb">Demo of TF_IDF search</a><br>
+(Reads excel file <a href="JobTrendAds_TFIDF_Search.csv">JobTrendAds_TFIDF_Search.csv</a>)<br>
+<br>
