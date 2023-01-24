@@ -19,3 +19,7 @@ TF_IDF Search (December 1st, 2022): <br>
 <a href="PersonalCompetencies_TFIDF_Search.ipynb">Demo of TF_IDF search</a><br>
 (Reads excel file <a href="JobTrendAds_TFIDF_Search.csv">JobTrendAds_TFIDF_Search.csv</a>)<br>
 <br>
+Prototype 4 (January 20th, 2023): <br>
+<a href="JobTrendPrototype4.ipynb">JobTrend prototype (Vers 0.4)</a><br>
+(Reads excel file <a href="JobTrendAds_Transformer_Search.csv">JobTrendAds_Transformer_Search.csv</a>)<br>
+<br>
