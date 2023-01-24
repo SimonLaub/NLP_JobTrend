@@ -21,5 +21,6 @@ TF_IDF Search (December 1st, 2022): <br>
 <br>
 Prototype 4 (January 20th, 2023): <br>
 <a href="JobTrendPrototype4.ipynb">JobTrend prototype (Vers 0.4)</a><br>
-(Reads excel file <a href="JobTrendAds_Transformer_Search.csv">JobTrendAds_Transformer_Search.csv</a>)<br>
+(Reads excel file <a href="JobTrendAds_Transformer_Search.csv">JobTrendAds_Transformer_Search.csv</a>.<br>
+ROC curve: <a href="JobTrendPrototype4ROC.ipynb">here</a>)
 <br>
