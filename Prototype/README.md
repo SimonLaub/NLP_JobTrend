@@ -24,3 +24,7 @@ Prototype 4 (January 20th, 2023): <br>
 (Reads excel file <a href="JobTrendAds_Transformer_Search.csv">JobTrendAds_Transformer_Search.csv</a>.<br>
 ROC curve: <a href="JobTrendPrototype4ROC.ipynb">Here</a>)
 <br>
+Prototype 5 (January 26th, 2023): <br>
+<a href="JobTrendPrototype5.ipynb">JobTrend prototype (Vers 0.5)</a><br>
+(Reads excel file <a href="JobTrendAds_Transformer_Search_Clean.csv">JobTrendAds_Transformer_Search_Clean.csv</a>).<br>
+<br>
