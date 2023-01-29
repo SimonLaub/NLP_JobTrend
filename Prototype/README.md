@@ -33,3 +33,8 @@ Results for Comprehension and Experience:<br>
 <a href="JobTrendPrototype5Experience.ipynb">JobTrend Experience (Vers 0.5)</a><br>
 (Reads excel file <a href="JobTrendsComprehensionClean.csv">JobTrends_Comprehension_Experience_Clean.csv</a>).<br>
 <br>
+Results with an alternative Transformer model:<br>
+<a href="JobTrendPrototype5AnotherTransformer.ipynb">JobTrend prototype (Vers 0.5, new transformer model)</a><br>
+(Using another, distiluse-base-multilingual-cased-v2, pretrained transformer model).<br>
+<br>
+
